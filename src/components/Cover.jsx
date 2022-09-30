@@ -1,18 +1,16 @@
 import "../css/coverStyls.css"
-import coverVideo from "../assets/coverVideo.mp4";
+import cover from "../assets/cover.jpg";
 
 export const Cover = () => {
   return (
     <div className="cover-container">
-        <video 
+        <img
             className="video" 
-            src={coverVideo} 
-            autoPlay 
-            loop 
-            muted
+            src={cover} 
+            
         >
 
-        </video>
+        </img>
 
         <h1>Juan Daniel Valderrama</h1>
         <p>Developer | Frontend | Mecanico Automotriz | Desarrollador </p>

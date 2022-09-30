@@ -1,24 +1,33 @@
 import React from "react";
 import "../css/PortafolioPage.css"
-import portafolio1 from "../assets/portafolio1.jpg";
+import portafolio1 from "../assets/todo.png";
+import trello from "../assets/trello.png";
+import landinPage from "../assets/landingpage.png"
+import udemi from "../assets/udemi.png"
 
 const slidesInfo = [
     {
         src: portafolio1,
-        alt: "proyeto 1",
-        desc: "project 1"
+        alt: "To-Do",
+        desc: "To-Do"
     },
 
     {
-        src: "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        src: landinPage,
         alt: "proyeto 2",
-        desc: "project 2"
+        desc: "Landing Page"
     },
 
     {
-        src: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        src: trello,
         alt: "proyeto 3",
-        desc: "project 3"
+        desc: "Trello"
+    },
+
+    {
+        src: udemi,
+        alt: "proyeto 4",
+        desc: "Imitacion Udemy"
     }
 ]
 
