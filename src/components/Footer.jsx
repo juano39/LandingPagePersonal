@@ -17,7 +17,7 @@ export const Footer = () => {
 
         <div className="footer-sns">
             <div className="desing-by">
-                <h2>Diseñadp Por Juan Daniel Valderrama</h2>
+                <h2>Diseñado Por Juan Daniel Valderrama</h2>
             </div>
 
             <div className="sns-links">
