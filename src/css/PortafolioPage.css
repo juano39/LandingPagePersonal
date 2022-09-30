@@ -45,7 +45,7 @@
     opacity: 0.8;
 }
 
-.slide-desc > span {
+.slide-desc > a {
     color: #ffffff;
     display: block;
     font-size: 22px;
@@ -58,7 +58,7 @@
     margin: 20px;
 }
 
-.BrainhubCarousel__arrows > span {
+.BrainhubCarousel__arrows > a {
     border-color: #ffffff !important; 
 }
 
@@ -66,7 +66,7 @@
     background-color: #000 !important;
 }
 
-.BrainhubCarousel__arrows:hover > span {
+.BrainhubCarousel__arrows:hover > a {
     border-color: #ffffff !important ;
 }
 
