@@ -13,7 +13,7 @@ export const Cover = () => {
         </img>
 
         <h1>Juan Daniel Valderrama</h1>
-        <p>Developer | Frontend | Mecanico Automotriz | Desarrollador </p>
+        <p>Developer | Front-end | Desarrollador React </p>
     </div>
   )
 }
