@@ -49,10 +49,12 @@ export const EstudiosPage = () => {
                     </div>
                 </div>
                 <div className="item der">
-                    <h4>Front Developer</h4>
+                    <h4>Front-end Developer</h4>
                     <span className="casa">Servicentro AutoYA</span>
                     <span className="fecha">2020 - 2021</span>
-                    <p>Tambien fue en esta misma empresa que me dio la oportunidad de relizar mi primer trabajo de una pagina web qeu cree para esta emprea </p>
+                    <p>Desarrollo de aplicativo WEB para promoción del taller, en el cual actualmente trabajo como meacino y donde desarrolle la palicacion web, la cual tenía la información sobre los servicios que se ofrecía, adicional un cotizador que daba un precio promedio de cuanto podría costar algunos de sus servicios. 
+
+También como objetivo del sitio, era exponer el ambiente laboral y los espacios que tenían los mecánicos en el taller, este sitio se realizó en HTML5, CSS3, Javascript y Bootstrap. </p>
                     <div className="conectord">
                         <div className="circulod"></div>
                     </div>
